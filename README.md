@@ -1,2 +1,4 @@
 # git-25-26-PR-groupA
 This is a dummy repo made for the Unit 4 of the Git Workshop 25-26 course. It's purpose is for practicing with Pull Requests
+
+Collaboration repo
